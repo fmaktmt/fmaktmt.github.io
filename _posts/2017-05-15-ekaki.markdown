@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "絵描き練習 模写"
+date:   2017-05-15 08:45:00 +0900
+categories: jekyll update
+---
+今日はMika Pikazoさんの絵を模写してみた。
+
+![模写の絵]({{ site.url }}/assets/postimages/20170515MS01.jpg)
